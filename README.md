@@ -5,8 +5,7 @@
 - Rekreirati HTML od sljedećih stranica:
 	* [FreeCodeCamp](https://www.freecodecamp.org/learn/) - [screenshot](https://i.ibb.co/8jVJgZQ/slika.png)
 	* [Index.hr](https://www.index.hr) - [screenshot](https://i.ibb.co/YDp0X0V/slika.png)
-  
-[Rješeni primjer](https://github.com/Volki312/HTML-1/blob/master/Slobodna_Dalmacija.html)
+  * **[Rješeni primjer](https://github.com/Volki312/HTML-1/blob/master/Slobodna_Dalmacija.html)**
 
 <hr>
 
