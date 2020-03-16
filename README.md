@@ -26,5 +26,4 @@
 <hr>
 
 ### Shortcuts of the week:
-- To turn on [multi-line editing](https://kencenerelli.wordpress.com/2018/03/25/visual-studio-code-multi-line-and-multi-cursor-editing/) use **Ctrl + Alt + Up/Down Arrow**, and **Esc** to exit the multi-line mode
-- To add secondary cursors use **Alt + Click**
+- Turn on [multiple selections](https://code.visualstudio.com/docs/editor/codebasics#_multiple-selections-multicursor) by using **Ctrl + Alt + Up/Down Arrow** for multi-line editing or **Alt + Click** to add secondary cursors. Press **Esc** to exit the multi-cursor mode
